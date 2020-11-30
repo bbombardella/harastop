@@ -2,7 +2,7 @@ Du coup j'aimerais ajouter la boutique pour vendre des stickers comme j'ai fait 
 
 Faudra qu'on supprime le "elements" en haut à droite des pages testimony et who are we
 
-Ajouter le logo sur la page d'accueil à droite
+Ajouter le logo sur la page d'accueil à droite (fait)
 
 Faut qu'on fasse le côté psychologie ? Genre pour l'ajouter au site ? 
 
