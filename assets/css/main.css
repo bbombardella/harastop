@@ -166,7 +166,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #ff0fa6;
+		color: #ff7d98;
 		font-weight: bold;
 	}
 
@@ -192,7 +192,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 2.75em;
+		font-size: 4em;
 	}
 
 		h1.major {
@@ -3748,7 +3748,7 @@ input, select, textarea {
 			border: 0;
 			color: rgba(255, 255, 255, 0.35);
 			display: block;
-			font-size: 0.6em;
+			font-size: 1.1em;
 			font-weight: bold;
 			letter-spacing: 0.25em;
 			line-height: 1.75;
@@ -3757,6 +3757,7 @@ input, select, textarea {
 			position: relative;
 			text-decoration: none;
 			text-transform: uppercase;
+			text-align: center;
 		}
 
 			#sidebar nav a:before, #sidebar nav a:after {
@@ -3770,7 +3771,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				/* background: #F7A8B8; */
 			}
 
 			#sidebar nav a:after {
@@ -3890,7 +3891,7 @@ input, select, textarea {
 	}
 
 		#intro p {
-			font-size: 1.25em;
+			font-size: 1.7em;
 		}
 
 			@media screen and (max-width: 980px) {
